@@ -1,0 +1,29 @@
+/*boton de salir*/
+.btn-salir{
+	background-color: #4d4545;
+	width: 100px;
+	border-radius: 10px;
+}
+/*cuadro general personas*/
+.cuadro{
+	width: 250px;
+	height: 200px;
+	display: block;
+	margin: auto;
+	padding-top: 20%;
+}
+/*cuadro color naranja*/
+#naranja{
+	background-color: #ffc200;
+}
+/*cuadro color gris*/
+.gris{
+	background-color: #989898;
+}
+/*foto de blog*/
+.foto-perfil{
+	position: relative;
+	top: 30px;
+	border-radius: 50%;
+	border: 1px solid transparent;
+}
